@@ -24,7 +24,7 @@ BharatKala is a culture-inspired website template crafted to showcase India’s 
 * Brand summary
 * Social media links
 * Newsletter input
-* 
+
 ## Project Structure
 BharatKala/
 │── index.html
@@ -40,7 +40,7 @@ BharatKala/
 * HTML5
 * CSS3
 * Original legacy fallback CSS from Ecothunder
-* 
+
 # Purpose
 * Promote Indian artisans and cultural crafts
 * Blend traditional design aesthetics with a clean, modern UI
